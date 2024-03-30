@@ -1,4 +1,17 @@
+.counter {
+    text-align: center;
+    background:black;
+}
 
+.counter div{
+    display: inline-block;
+    font-size: 70px;
+    line-height: 70px;
+    background: black;
+    color: whitesmoke;
+    padding: 10px;
+    margin:20px
+}
 /* 
 
     You can write your own styles here...
